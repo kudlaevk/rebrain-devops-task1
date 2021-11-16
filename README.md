@@ -1,1 +1,1 @@
-this is default config of nginx
+this repository contents a default config file of nginx.conf
